@@ -29,8 +29,6 @@ In partnership with leading organizations (such as AI-RANO, RSNA, ASNR, NIH, FDA
 
 🔗 [Learn more about the BraTS-Lighthouse 2025 Challenge](https://www.synapse.org/Synapse:syn64153130/wiki/630130)
 
-## Access to BraTS algorithms
-
 ## Access BraTS Algorithms
 - [BraTS Orchestrator](https://github.com/BrainLesion/BraTS): Algorithms from 2023 onwards
 - [BraTS Toolkit](https://github.com/neuronflow/BraTS-Toolkit): Legacy BraTS algorithms
