@@ -10,7 +10,6 @@ ______         _____ _____
                                                                                                 
 ``` -->
 ![logo](logo_2025.png)
-).
 
 ## Mission
 **Advancing brain tumor care through collaborative AI and open science.**
