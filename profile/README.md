@@ -10,16 +10,40 @@ ______         _____ _____
                                                                                                 
 ``` -->
 ![logo](logo_2025.png)
-Since its inception at MICCAI 2012, BraTS has advanced brain tumor image analysis by benchmarking algorithmic advances, providing high-quality annotated datasets, and tasking participants with developing innovative solutions to clinically relevant problems along the disease course and across different brain tumor entities.
-In collaboration with leading clinical organizations such as AI-RANO, RSNA, ASNR, NIH, FDA, ASFNR, and CBTN, the BraTS 2025 Lighthouse Challenge advances this effort by expanding its focus across further clinical needs. These include longitudinal assessment of brain tumor response, global and local synthesis of brain MRI,  generalizability of tumor segmentation methods across different entities, and inclusion of tumor entities for which there is currently limited annotated data.
-
-Find more information on the [BraTS-Lighthouse 2025 Challenge website](https://www.synapse.org/Synapse:syn64153130/wiki/630130
 ).
 
-## Access to BraTS algorithms
-BraTS algorithms from 2023 onwards are available via [BraTS Orchestrator](https://github.com/BrainLesion/BraTS). [BraTS Toolkit](https://github.com/neuronflow/BraTS-Toolkit) provides legcacy BraTS algorithms.
+## Mission
+**Advancing brain tumor care through collaborative AI and open science.**
 
-## History
-Some sources providing information about past years' BraTS challenges:
-* https://www.synapse.org/Synapse:syn53708126/wiki/626320
-* https://www.med.upenn.edu/cbica/brats/
+Since 2012, BraTS has set the standard for brain tumor image analysis, driving progress by:
+- Benchmarking innovative algorithms
+- Providing high-quality, annotated datasets
+- Fostering solutions to real clinical challenges
+
+## BraTS 2025 Lighthouse Challenge
+In partnership with leading organizations (such as AI-RANO, RSNA, ASNR, NIH, FDA, ASFNR, CBTN), BraTS 2025 expands its focus to:
+- Longitudinal assessment of tumor response
+- Generalizability of segmentation methods
+- Inclusion of rare tumor entities with limited annotations
+- Missing MRI (global) synthesis and inpainting (local synthesis)
+
+
+🔗 [Learn more about the BraTS-Lighthouse 2025 Challenge](https://www.synapse.org/Synapse:syn64153130/wiki/630130)
+
+## Access to BraTS algorithms
+
+## Access BraTS Algorithms
+- [BraTS Orchestrator](https://github.com/BrainLesion/BraTS): Algorithms from 2023 onwards
+- [BraTS Toolkit](https://github.com/neuronflow/BraTS-Toolkit): Legacy BraTS algorithms
+
+## Resources & History
+- [Past BraTS Challenges](https://www.synapse.org/Synapse:syn53708126/wiki/626320)
+- [CBICA BraTS Hub](https://www.med.upenn.edu/cbica/brats/)
+
+## Get Involved
+- Participate in challenges and access datasets
+- Contribute algorithms and research
+- Connect with the global BraTS community
+
+---
+*Transforming brain tumor care through collaborative AI innovation since 2012.*
