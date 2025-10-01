@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Segmentation (BraTS)
+# 🧠 Brain TumorS (BraTS) Cluster of Challenges
 <!-- ```
 ______         _____ _____
 | ___ \       |_   _/  ___|
